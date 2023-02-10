@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-io&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-io" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh-io" alt="ritesh-io" /></a> </p>
-(img align="center" alt="Coding" width="400" src="https://i.ytimg.com/vi/kX0tq3qsY_U/maxresdefault.jpg")
+<img align="center" alt="Coding" width="400" src="https://i.ytimg.com/vi/kX0tq3qsY_U/maxresdefault.jpg">
 
 - 🌱 I’m currently learning **C++ and Adroid Development**
 
